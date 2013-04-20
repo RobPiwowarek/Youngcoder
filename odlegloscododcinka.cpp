@@ -1,4 +1,4 @@
-// Napisz program, który wyznaczy odleg³oœæ punktu  od odcinka o koñcach w punktach  i . 
+// Napisz program, ktory wyznaczy odleglosc punktu C od odcinka o koncach w punktach A i B.
 // Zadanie z konkurs Youngcoder 2013
 
 #include <stdio.h>
