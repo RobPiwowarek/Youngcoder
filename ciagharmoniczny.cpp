@@ -1,4 +1,4 @@
-//Oblicz sume n pierwszych wyrazów ciagu harmonicznego
+//Oblicz sume n pierwszych wyrazow ciagu harmonicznego
 //Zadanie z konkursu Youngcoder 2013
 
 #include <iostream>
