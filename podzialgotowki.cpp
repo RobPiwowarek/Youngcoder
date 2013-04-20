@@ -1,11 +1,19 @@
-/*Podzia³ gotówki
+/*Podziaï¿½ gotï¿½wki
 
-System monetarny Bitolandii odbiega nieco od naszego systemu. Obiegow¹ walut¹ jest bitalar, zaœ nomina³y banknotów to ró¿ne liczby ca³kowite od 1 do 100000. Monet nie u¿ywa siê.
+System monetarny Bitolandii odbiega nieco od naszego systemu. 
+Obiegowï¿½ walutï¿½ jest bitalar, zaï¿½ nominaï¿½y banknotï¿½w to rï¿½ne liczby caï¿½kowite od 1 do 100000. 
+Monet nie uï¿½ywa siï¿½.
 
-Dwaj z³odzieje obrabowali bank w stolicy Bitolandii. Wynieœli z jego skarbca spor¹ iloœæ banknotów o ró¿nych nomina³ach.  Po powrocie do swojej kryjówki postanowili podzieliæ ³up na dwie równe czêœci, ale okaza³o siê, ¿e mog¹ z tym mieæ problem: niektóre banknoty trzeba by³o rozmieniæ na drobniejsze.
+Dwaj zï¿½odzieje obrabowali bank w stolicy Bitolandii. 
+Wynieï¿½li z jego skarbca sporï¿½ iloï¿½ï¿½ banknotï¿½w o rï¿½nych nominaï¿½ach.  
+Po powrocie do swojej kryjï¿½wki postanowili podzieliï¿½ ï¿½up na dwie rï¿½wne czï¿½ci, ale 
+okazaï¿½o siï¿½, ï¿½e mogï¿½ z tym mieï¿½ problem: niektï¿½re banknoty trzeba byï¿½o rozmieniï¿½ na drobniejsze.
 
-Napisz program, który czyta opis zdobyczy z³odziei i odpowiada na pytanie, czy mo¿liwy jest podzia³ gotówki na dwie po³owy bez rozmieniania banknotów
+Napisz program, ktï¿½ry czyta opis zdobyczy zï¿½odziei i odpowiada na pytanie, 
+czy moï¿½liwy jest podziaï¿½ gotï¿½wki na dwie poï¿½owy bez rozmieniania banknotï¿½w
 */
+
+// zadanie z konkurs youngcoder 2013
 
 #include <stdio.h>
 #include <iostream>
