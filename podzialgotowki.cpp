@@ -1,16 +1,16 @@
 /*Podzia� got�wki
 
 System monetarny Bitolandii odbiega nieco od naszego systemu. 
-Obiegow� walut� jest bitalar, za� nomina�y banknot�w to r�ne liczby ca�kowite od 1 do 100000. 
-Monet nie u�ywa si�.
+Obiegowa waluta jest bitalar, zas nominaly banknotow to rozne liczby calkowite od 1 do 100000. 
+Monet nie uzywa sie.
 
-Dwaj z�odzieje obrabowali bank w stolicy Bitolandii. 
-Wynie�li z jego skarbca spor� ilo�� banknot�w o r�nych nomina�ach.  
-Po powrocie do swojej kryj�wki postanowili podzieli� �up na dwie r�wne cz�ci, ale 
-okaza�o si�, �e mog� z tym mie� problem: niekt�re banknoty trzeba by�o rozmieni� na drobniejsze.
+Dwaj zlodzieje obrabowali bank w stolicy Bitolandii. 
+Wyniesli z jego skarbca spora ilosc banknotow o ronych nominalach.  
+Po powrocie do swojej kryjowki postanowili podzielic lup na dwie rowne czesci, ale 
+okazalo sie, ze moga z tym miec problem: niektore banknoty trzeba bylo rozmienic na drobniejsze.
 
-Napisz program, kt�ry czyta opis zdobyczy z�odziei i odpowiada na pytanie, 
-czy mo�liwy jest podzia� got�wki na dwie po�owy bez rozmieniania banknot�w
+Napisz program, ktory czyta opis zdobyczy zlodziei i odpowiada na pytanie, 
+czy mozliwy jest podzial gotowki na dwie polowy bez rozmieniania banknotow
 */
 
 // zadanie z konkurs youngcoder 2013
