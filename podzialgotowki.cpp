@@ -1,4 +1,4 @@
-/*Podzia� got�wki
+/*Podzial gotowki
 
 System monetarny Bitolandii odbiega nieco od naszego systemu. 
 Obiegowa waluta jest bitalar, zas nominaly banknotow to rozne liczby calkowite od 1 do 100000. 
